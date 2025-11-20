@@ -13,7 +13,7 @@ High-performance ICMP network pinger written in Python using asyncio
 
 ## Installation
 Clone the repository:
-git clone https://github.com/yourusername/network-pinger.git
+git clone https://github.com/rootdevss/network-pinger.git
 cd network-pinger
 Install dependencies (if any, currently none required):
 pip install -r requirements.txt
